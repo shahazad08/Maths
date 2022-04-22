@@ -8,5 +8,6 @@ public class MathsOperation {
         z=a-b;
         System.out.println("Addition is" +c);
         System.out.println("Subtraction is" +z);
+        System.out.println("Local Changes");
     }
 }
